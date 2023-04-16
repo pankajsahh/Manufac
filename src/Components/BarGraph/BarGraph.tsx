@@ -31,7 +31,7 @@ const BarGraph: React.FC = () => {
     }
   }, []);
 
-  return <div ref={chartRef} style={{ height: "400px" }} />;
+  return <div ref={chartRef} style={{ height: "300px" }} />;
 };
 
 export default BarGraph;
