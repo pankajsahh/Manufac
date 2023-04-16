@@ -4,13 +4,14 @@
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
+  width: 95%;
+  margin: 25px auto;
 }
 .gradient-dark-grey2 {
   background: linear-gradient(45deg, #d6d6d6 0%, #e8e8e8 100%);
   position: relative;
   width: 450px;
   height: 450px;
-
   border-radius: 10px;
 }
 .gradient-blue2 {
