@@ -1,11 +1,10 @@
 .MainWindow {
   display: flex;
-  margin: 100px 60px;
   gap: 20px;
   flex-wrap: wrap;
   justify-content: center;
   width: 95%;
-  margin: 25px auto;
+  margin: 10px auto;
 }
 .gradient-dark-grey2 {
   background: linear-gradient(45deg, #d6d6d6 0%, #e8e8e8 100%);
